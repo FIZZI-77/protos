@@ -1,5 +1,4 @@
-module protos
-
+module github.com/FIZZI-77/protos
 
 go 1.23.5
 
